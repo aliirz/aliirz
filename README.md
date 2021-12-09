@@ -5,7 +5,7 @@
 
 ## I'm a Maker, Developer and Gamer
 
-- 🔭 I work with Code for Pakistan [Become A VS Code SuperHero!][course]!
+- 🔭 I work with Code for Pakistan!
 - 🌱 I’m currently learning how to 3D Print cool stuff
 - 👯 I’m building a open source url shortener
 - 🥅 2021 Goals: Make more side projects
