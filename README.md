@@ -43,10 +43,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Coding the National Anthem](https://aliirz.com/National-Anthem-why-we-forget)
-- [Awesome Civic Tech Ideas](https://aliirz.com/Awesome-civic-tech-ideas)
-- [Comments on clean code](https://aliirz.com/Redeploying-gov-uk)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
