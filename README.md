@@ -43,6 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fund for Engineers who want to buy an Xbox](https://aliirz.com/Fund-for-engineers-who-want-an-xbox)
+- [Pakistan’s National Anthem - Why do we forget?](https://aliirz.com/National-Anthem-why-we-forget)
+- [Comments on clean code](https://aliirz.com/Comments-on-clean-code)
+- [Awesome Civic Tech Ideas](https://aliirz.com/Awesome-civic-tech-ideas)
+- [Redeploying gov.uk Part-1](https://aliirz.com/Redeploying-gov-uk)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
