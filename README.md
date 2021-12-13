@@ -44,9 +44,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Coding the National Anthem](http://aliirz.com/pakistan-s-national-anthem-why-do-we-forget)
-- [Awesome Civic Tech Ideas](http://aliirz.com/awesome-civic-tech-ideas)
-- [Comments on clean code](http://aliirz.com/comments-on-clean-code)
+- [Coding the National Anthem](https://aliirz.com/National-Anthem-why-we-forget)
+- [Awesome Civic Tech Ideas](https://aliirz.com/Awesome-civic-tech-ideas)
+- [Comments on clean code](https://aliirz.com/Redeploying-gov-uk)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
