@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerize your angular app](https://aliirz.com/Dockerize-your-angular-app)
 - [Adding RSS feed to your Jekyll Powered Site](https://aliirz.com/adding-rss-feed-to-your-jekyll-site)
 - [Fund for Engineers who want to buy an Xbox](https://aliirz.com/Fund-for-engineers-who-want-an-xbox)
 - [Pakistan’s National Anthem - Why do we forget?](https://aliirz.com/National-Anthem-why-we-forget)
 - [Comments on clean code](https://aliirz.com/Comments-on-clean-code)
-- [Awesome Civic Tech Ideas](https://aliirz.com/Awesome-civic-tech-ideas)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
