@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=aliirz.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://aliirz.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aliirz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faliirz&screen_name=aliirz)
+[![CodeWars](https://www.codewars.com/users/aliirz/badges/large)](https://www.codewars.com/users/aliirz)
 
 ## I'm a Maker, Developer and Gamer
 
