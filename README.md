@@ -9,7 +9,7 @@
 - 🔭 I work with Code for Pakistan!
 - 🌱 I’m currently learning how to 3D Print cool stuff
 - 👯 I’m building a open source url shortener
-- 🥅 2022 Goals: Make more side projects
+- 🥅 2023 Goals: Make more side projects
 - ⚡ Fun fact: I love playing video games
 
 ### Connect with me:
