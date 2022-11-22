@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Same day skunk works](https://aliirz.com/Same-day-skunk-works)
 - [Proof of Stake vs Proof of Work](https://aliirz.com/Proof-of-stake-vs-proof-of-work)
 - [What is docker](https://aliirz.com/What-is-Docker)
 - [FloodLight](https://aliirz.com/Flood-Light)
 - [Covid Positive Day 1](https://aliirz.com/covid-diaries-episode-1)
-- [Dockerize your angular app](https://aliirz.com/Dockerize-your-angular-app)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
