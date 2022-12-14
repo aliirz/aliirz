@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Job Opening MEAN Stack Developer](https://aliirz.com/Job-Opening-Mean-stack-dev)
 - [Same day skunk works](https://aliirz.com/Same-day-skunk-works)
 - [Proof of Stake vs Proof of Work](https://aliirz.com/Proof-of-stake-vs-proof-of-work)
 - [What is docker](https://aliirz.com/What-is-Docker)
 - [FloodLight](https://aliirz.com/Flood-Light)
-- [Covid Positive Day 1](https://aliirz.com/covid-diaries-episode-1)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
