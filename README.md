@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Job Opening MEAN Stack Developer](https://aliirz.com/Job-Opening-Mean-stack-dev)
-- [Same day skunk works](https://aliirz.com/Same-day-skunk-works)
-- [Proof of Stake vs Proof of Work](https://aliirz.com/Proof-of-stake-vs-proof-of-work)
-- [What is docker](https://aliirz.com/What-is-Docker)
-- [FloodLight](https://aliirz.com/Flood-Light)
+- [Job Opening MEAN Stack Developer](http://localhost:4000/Job-Opening-Mean-stack-dev)
+- [Same day skunk works](http://localhost:4000/Same-day-skunk-works)
+- [Proof of Stake vs Proof of Work](http://localhost:4000/Proof-of-stake-vs-proof-of-work)
+- [What is docker](http://localhost:4000/What-is-Docker)
+- [FloodLight](http://localhost:4000/Flood-Light)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
