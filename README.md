@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KYC using Plaid in a swiftui app](https://aliirz.com/Plaid-for-KYC-in-swiftui)
 - [Using inject and provide in vue 3](https://aliirz.com/Inject-and-Provide-in-vue-3)
 - [Job Opening MEAN Stack Developer](https://aliirz.com/Job-Opening-Mean-stack-dev)
 - [Same day skunk works](https://aliirz.com/Same-day-skunk-works)
 - [Proof of Stake vs Proof of Work](https://aliirz.com/Proof-of-stake-vs-proof-of-work)
-- [What is docker](https://aliirz.com/What-is-Docker)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
