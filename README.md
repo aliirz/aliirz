@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Environment Variables vs Arguments](https://aliirz.com/Docker-Args-and-Env-Vars)
 - [Learning SwiftUI by building a URL Shortener iOS App](https://aliirz.com/Swiftui-url-shortener)
 - [KYC using Plaid in a swiftui app](https://aliirz.com/Plaid-for-KYC-in-swiftui)
 - [Using inject and provide in vue 3](https://aliirz.com/Inject-and-Provide-in-vue-3)
 - [Job Opening MEAN Stack Developer](https://aliirz.com/Job-Opening-Mean-stack-dev)
-- [Same day skunk works](https://aliirz.com/Same-day-skunk-works)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
