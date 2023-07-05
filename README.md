@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Up &amp;amp; Running with PostgreSQL with Docker](https://aliirz.com/up-running-with-postgresql-with-docker)
 - [My Favorite Video Games in Wes Anderson Style](https://aliirz.com/video-games-as-wes-anderson-creations)
 - [Docker Environment Variables vs Arguments](https://aliirz.com/Docker-Args-and-Env-Vars)
 - [Learning SwiftUI by building a URL Shortener iOS App](https://aliirz.com/Swiftui-url-shortener)
 - [KYC using Plaid in a swiftui app](https://aliirz.com/Plaid-for-KYC-in-swiftui)
-- [Using inject and provide in vue 3](https://aliirz.com/Inject-and-Provide-in-vue-3)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
