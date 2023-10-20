@@ -46,7 +46,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of HTTP Status Codes in Microservice and API Development](https://aliirz.com/Http-Status-Codes)
+- [The Importance of HTTP Status Codes in Microservice and API Development](https://aliirz.com/http-status-codes)
 - [insults.dev, an LLM based Insult Generator for devs](https://aliirz.com/chat-gpt-insult-generator)
 - [Up &amp;amp; Running with PostgreSQL with Docker](https://aliirz.com/up-running-with-postgresql-with-docker)
 - [My Favorite Video Games in Wes Anderson Style](https://aliirz.com/video-games-as-wes-anderson-creations)
