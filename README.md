@@ -7,8 +7,8 @@
 ## I'm a Maker, Developer and Gamer
 
 - 🔭 I work with Code for Pakistan!
-- 🌱 I’m currently learning how to 3D Print cool stuff
-- 👯 I’m building a open source url shortener
+- 🌱 I 3D Print cool stuff
+- 👯 I’m working a lot with large language models
 - 🥅 2024 Goals: Launch!
 - ⚡ Fun fact: I love playing video games
 
