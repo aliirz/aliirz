@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Code for All Summit 2023](https://aliirz.com/code-for-all-summit-2023)
+- [Code Roaster GPT](https://aliirz.com/code-roaster-gpt)
 - [The Importance of HTTP Status Codes in Microservice and API Development](https://aliirz.com/http-status-codes)
+- [Code for All Summit 2023](https://aliirz.com/code-for-all-summit-2023)
 - [insults.dev, an LLM based Insult Generator for devs](https://aliirz.com/chat-gpt-insult-generator)
 - [Up &amp;amp; Running with PostgreSQL with Docker](https://aliirz.com/up-running-with-postgresql-with-docker)
-- [My Favorite Video Games in Wes Anderson Style](https://aliirz.com/video-games-as-wes-anderson-creations)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
