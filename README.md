@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Crew AI to detect fake news with your own LLM](https://aliirz.com/fight-fake-news-with-crew-ai)
 - [Gesture Recognition with Python OpenCV](https://aliirz.com/gesture-recognition-with-python)
 - [Code Roaster GPT](https://aliirz.com/code-roaster-gpt)
-- [Code for All Summit 2023](https://aliirz.com/code-for-all-summit-2023)
 - [The Importance of HTTP Status Codes in Microservice and API Development](https://aliirz.com/http-status-codes)
-- [insults.dev, an LLM based Insult Generator for devs](https://aliirz.com/chat-gpt-insult-generator)
+- [Code for All Summit 2023](https://aliirz.com/code-for-all-summit-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
