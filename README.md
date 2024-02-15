@@ -46,10 +46,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sora, A New Horizon in AI-Generated Video Content](https://aliirz.com/openai-sora)
 - [Using Crew AI to detect fake news with your own LLM](https://aliirz.com/fight-fake-news-with-crew-ai)
 - [Gesture Recognition with Python OpenCV](https://aliirz.com/gesture-recognition-with-python)
 - [Code Roaster GPT](https://aliirz.com/code-roaster-gpt)
-- [The Importance of HTTP Status Codes in Microservice and API Development](https://aliirz.com/http-status-codes)
 - [Code for All Summit 2023](https://aliirz.com/code-for-all-summit-2023)
 <!-- BLOG-POST-LIST:END -->
 
