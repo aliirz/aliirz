@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a PDF Chatbot](https://aliirz.com/doc-sleek-talk-to-your-pdf-file)
 - [Using Google Gemini to build Karachi Chal](https://aliirz.com/karachi-chal)
 - [ZenPad, A Minimal Markdown Editor for Distraction-Free Writing](https://aliirz.com/zen-pad.minimal-markdown-editor)
 - [Sora, A New Horizon in AI-Generated Video Content](https://aliirz.com/openai-sora)
 - [Using Crew AI to detect fake news with your own LLM](https://aliirz.com/fight-fake-news-with-crew-ai)
-- [Gesture Recognition with Python OpenCV](https://aliirz.com/gesture-recognition-with-python)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
