@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Weekend Warrior Epidemic](https://dev.to/aliirz/the-weekend-warrior-epidemic-1lp8)
 - [GPT Vision and DSPY towards smarter automation](https://aliirz.com/using-dspy-with-gpt-vision)
 - [Mastering Markdown; A Cheatsheet from a Dev Who Loves Markdown &lpar;But Keeps Googling It&rpar;](https://aliirz.com/markdown-cheatsheet)
 - [Building a PDF Chatbot](https://aliirz.com/doc-sleek-talk-to-your-pdf-file)
 - [Using Google Gemini to build Karachi Chal](https://aliirz.com/karachi-chal)
-- [ZenPad, A Minimal Markdown Editor for Distraction-Free Writing](https://aliirz.com/zen-pad.minimal-markdown-editor)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
