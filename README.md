@@ -4,12 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/aliirz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faliirz&screen_name=aliirz)
 [![CodeWars](https://www.codewars.com/users/aliirz/badges/small)](https://www.codewars.com/users/aliirz)
 
-## I'm a Maker, Developer and Gamer
+## I'm a Maker, Developer, and Gamer
 
 - 🔭 I work with Code for Pakistan!
 - 🌱 I 3D Print cool stuff
 - 👯 I’m working a lot with large language models
-- 🥅 2024 Goals: Launch!
+- 🥅 2025 Goals: Launch and Watch it Grow!
 - ⚡ Fun fact: I love playing video games
 
 ### Connect with me:
