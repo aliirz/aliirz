@@ -64,6 +64,10 @@
 
 </details>
 
+
+[![An image of @aliirz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aliirz)](https://holopin.io/@aliirz)
+
+
 [website]: https://aliirz.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/aliirz
