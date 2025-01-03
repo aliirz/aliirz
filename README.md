@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Knowledge Graphs Using DSPy](https://aliirz.com/building-knowledge-graphs-using-dspy)
 - [Python Best Practices: Code This, Not That 🐍](https://aliirz.com/python-best-practices)
 - [The Weekend Warrior Epidemic](https://dev.to/aliirz/the-weekend-warrior-epidemic-1lp8)
 - [GPT Vision and DSPY towards smarter automation](https://aliirz.com/using-dspy-with-gpt-vision)
 - [Mastering Markdown; A Cheatsheet from a Dev Who Loves Markdown &lpar;But Keeps Googling It&rpar;](https://aliirz.com/markdown-cheatsheet)
-- [Building a PDF Chatbot](https://aliirz.com/doc-sleek-talk-to-your-pdf-file)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
