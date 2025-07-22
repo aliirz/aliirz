@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TICTeC 2025](https://aliirz.com/tictec-2025)
 - [Chain of Draft &lpar;CoD&rpar;: Making LLMs Think Like Humans on a Deadline](https://aliirz.com/chain-of-draft)
 - [All Things Devcast Episode 1](https://aliirz.com/all-things-devcast)
 - [Building Knowledge Graphs Using DSPy](https://aliirz.com/building-knowledge-graphs-using-dspy)
 - [Python Best Practices: Code This, Not That 🐍](https://aliirz.com/python-best-practices)
-- [The Weekend Warrior Epidemic](https://dev.to/aliirz/the-weekend-warrior-epidemic-1lp8)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
