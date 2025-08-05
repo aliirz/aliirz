@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remember when we owned our files?](https://aliirz.com/Remember-when-we-owned-our-files)
 - [TICTeC 2025](https://aliirz.com/tictec-2025)
 - [Chain of Draft &lpar;CoD&rpar;: Making LLMs Think Like Humans on a Deadline](https://aliirz.com/chain-of-draft)
 - [All Things Devcast Episode 1](https://aliirz.com/all-things-devcast)
 - [Building Knowledge Graphs Using DSPy](https://aliirz.com/building-knowledge-graphs-using-dspy)
-- [Python Best Practices: Code This, Not That 🐍](https://aliirz.com/python-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
