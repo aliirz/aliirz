@@ -46,11 +46,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing code that writes code](https://aliirz.com/writing-code-that-writes-code)
-- [Remember when we owned our files?](https://aliirz.com/Remember-when-we-owned-our-files)
-- [TICTeC 2025](https://aliirz.com/tictec-2025)
-- [Chain of Draft &lpar;CoD&rpar;: Making LLMs Think Like Humans on a Deadline](https://aliirz.com/chain-of-draft)
-- [All Things Devcast Episode 1](https://aliirz.com/all-things-devcast)
+- [The Weekend Warrior Epidemic](https://dev.to/aliirz/the-weekend-warrior-epidemic-1lp8)
+- [Up and running with TimescaleDB](https://dev.to/aliirz/up-and-running-with-timescaledb-15oa)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
