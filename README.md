@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39)
 - [The Web Is A Cop And You Invited It In](https://aliirz.com/the-web-is-a-cop)
 - [Spec-Driven Development Made Easy: A Practical Guide with OpenSpec](https://aliirz.com/getting-started-with-sdd)
 - [Writing code that writes code](https://aliirz.com/writing-code-that-writes-code)
 - [Remember when we owned our files?](https://aliirz.com/Remember-when-we-owned-our-files)
-- [TICTeC 2025](https://aliirz.com/tictec-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
