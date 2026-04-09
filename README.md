@@ -47,10 +47,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I stopped writing prompts and started writing Python](https://dev.to/aliirz/i-stopped-writing-prompts-and-started-writing-python-2b4e)
+- [DSPy: The Framework for Programming LLMs &lpar;Not Prompting Them&rpar;](https://aliirz.com/dspy-the-framework-for-programming-llms)
 - [Spec-Driven Development with AI: Why Your AI Is Guessing &lpar;And How to Stop It&rpar;](https://aliirz.com/why-your-ai-is-guessing)
+- [Made it show its work](https://aliirz.com/phntm-update-show-your-work)
 - [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39)
-- [The Web Is A Cop And You Invited It In](https://aliirz.com/the-web-is-a-cop)
-- [Spec-Driven Development Made Easy: A Practical Guide with OpenSpec](https://aliirz.com/getting-started-with-sdd)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
