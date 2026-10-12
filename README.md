@@ -46,10 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Harness engineering: the layer everyone’s building and nobody’s naming](https://aliirz.com/harness-engineering)
 - [I stopped writing prompts and started writing Python](https://dev.to/aliirz/i-stopped-writing-prompts-and-started-writing-python-2b4e)
-- [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39)
-- [The Weekend Warrior Epidemic](https://dev.to/aliirz/the-weekend-warrior-epidemic-1lp8)
-- [Up and running with TimescaleDB](https://dev.to/aliirz/up-and-running-with-timescaledb-15oa)
+- [DSPy: The Framework for Programming LLMs &lpar;Not Prompting Them&rpar;](https://aliirz.com/dspy-the-framework-for-programming-llms)
+- [Spec-Driven Development with AI: Why Your AI Is Guessing &lpar;And How to Stop It&rpar;](https://aliirz.com/why-your-ai-is-guessing)
+- [Made it show its work](https://aliirz.com/phntm-update-show-your-work)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
