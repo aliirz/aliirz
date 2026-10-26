@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My agent fleet setup, with Buzz as the relay](https://aliirz.com/my-agent-fleet-setup-with-buzz)
 - [Harness engineering: the layer everyone’s building and nobody’s naming](https://aliirz.com/harness-engineering)
 - [I stopped writing prompts and started writing Python](https://dev.to/aliirz/i-stopped-writing-prompts-and-started-writing-python-2b4e)
 - [DSPy: The Framework for Programming LLMs &lpar;Not Prompting Them&rpar;](https://aliirz.com/dspy-the-framework-for-programming-llms)
 - [Spec-Driven Development with AI: Why Your AI Is Guessing &lpar;And How to Stop It&rpar;](https://aliirz.com/why-your-ai-is-guessing)
-- [Made it show its work](https://aliirz.com/phntm-update-show-your-work)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
