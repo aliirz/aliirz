@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Code got cheap. Checking it didn’t.](https://aliirz.com/code-got-cheap-checking-didnt)
 - [The cheapest harness depends on the model](https://aliirz.com/the-cheapest-harness-depends-on-the-model)
 - [The other robot already knew](https://aliirz.com/the-other-robot-already-knew)
 - [My agent fleet setup, with Buzz as the relay](https://aliirz.com/my-agent-fleet-setup-with-buzz)
 - [Harness engineering: the layer everyone’s building and nobody’s naming](https://aliirz.com/harness-engineering)
-- [I stopped writing prompts and started writing Python](https://dev.to/aliirz/i-stopped-writing-prompts-and-started-writing-python-2b4e)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
