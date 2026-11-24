@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Read the chart, not the diff](https://aliirz.com/read-the-chart-not-the-diff)
 - [The port passed. It was still wrong.](https://aliirz.com/the-port-passed-it-was-still-wrong)
 - [The factory comes after the loop](https://aliirz.com/the-factory-comes-after-the-loop)
 - [Code got cheap. Checking it didn’t.](https://aliirz.com/code-got-cheap-checking-didnt)
 - [The cheapest harness depends on the model](https://aliirz.com/the-cheapest-harness-depends-on-the-model)
-- [The other robot already knew](https://aliirz.com/the-other-robot-already-knew)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
