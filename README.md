@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s not sabotage. It’s a catapult.](https://aliirz.com/its-not-sabotage-its-a-catapult)
 - [The vault held. The mailroom didn’t.](https://aliirz.com/the-vault-held-the-mailroom-didnt)
 - [Read the chart, not the diff](https://aliirz.com/read-the-chart-not-the-diff)
 - [The port passed. It was still wrong.](https://aliirz.com/the-port-passed-it-was-still-wrong)
 - [The factory comes after the loop](https://aliirz.com/the-factory-comes-after-the-loop)
-- [Code got cheap. Checking it didn’t.](https://aliirz.com/code-got-cheap-checking-didnt)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://aliirz.com)
